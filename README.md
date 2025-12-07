@@ -10,7 +10,7 @@ A fast-paced, minimal HTML5 Canvas arcade game where you guide a glowing cube to
 ## 📸 Gameplay Preview
 
 > *(Replace with your actual image link once uploaded)*  
-<img src="assets/screenshot-gameplay.png" alt="Star Collector Gameplay" width="700"/>
+<img src="sc" alt="Star Collector Gameplay" width="700"/>
 
 ---
 
